@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Elison
-- 👀 I’m interested in Oracle PL/SQL and remote jobs.
-- 🌱 I’m currently learning English and Angular Js.
-- 💞️ I'm looking to collaborate on new projects to increase my knowledge and contribute my skills. Always looking to study new technologies to have new skills.
-- 📫 You can reach me in Linkedin at this link: https://www.linkedin.com/in/elison-goulart-3a8181213/
+👋 Hi, I'm Élison
+Systems Analyst with solid experience in database development, especially Oracle PL/SQL, working with procedures, triggers, views, data modeling, and query optimization.
+I hold a degree in Information Systems and I'm currently expanding my skills in data engineering, including ETL processes, system integrations, and best practices for handling large volumes of data.
+In my daily work, I focus on system analysis and development, process improvements, API integrations, and creating SQL queries to support operations and decision-making.
+I enjoy learning new technologies, collaborating with cross-functional teams, and building efficient, scalable, and well-structured solutions.
 
-<!---
-egdelison/egdelison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Technologies & Interests
+
+- PL/SQL, SQL, Oracle
+- Database modeling & optimization
+- ETL and data engineering in progress
+- System integrations / APIs
+- Systems development & automation
+- Python (currently studying)
+
+🎯 Goal
+
+To continue growing in the data engineering field and contribute to smart, scalable solutions that generate real value for businesses.
+
+My Linkedin: https://www.linkedin.com/in/elison-goulart-duarte-3a8181213
