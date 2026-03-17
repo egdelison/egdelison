@@ -66,5 +66,3 @@ Developed complex SQL queries to support business analytics and reporting.
 ---
 
 ⭐ Always learning and improving in the data field
-
-My Linkedin: https://www.linkedin.com/in/goulartelison
